@@ -42,7 +42,7 @@ require (
 	github.com/spf13/cobra v0.0.4
 	github.com/stretchr/testify v1.3.0
 	gopkg.in/inf.v0 v0.9.1 // indirect
-	gopkg.in/yaml.v2 v2.2.2
+	gopkg.in/yaml.v2 v2.2.8
 	k8s.io/api v0.0.0
 	k8s.io/apimachinery v0.0.0
 	k8s.io/cli-runtime v0.0.0
