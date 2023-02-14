@@ -28,7 +28,7 @@ replace (
 require (
 	contrib.go.opencensus.io/exporter/ocagent v0.6.0 // indirect
 	github.com/Azure/go-autorest v11.5.0+incompatible // indirect
-	github.com/aws/aws-sdk-go v1.27.2
+	github.com/aws/aws-sdk-go v1.34.0
 	github.com/dgrijalva/jwt-go v3.2.0+incompatible // indirect
 	github.com/gogo/protobuf v1.2.1 // indirect
 	github.com/googleapis/gnostic v0.2.0 // indirect
@@ -40,7 +40,7 @@ require (
 	github.com/prometheus/client_golang v1.2.1
 	github.com/rs/zerolog v1.12.0
 	github.com/spf13/cobra v0.0.4
-	github.com/stretchr/testify v1.3.0
+	github.com/stretchr/testify v1.5.1
 	gopkg.in/inf.v0 v0.9.1 // indirect
 	gopkg.in/yaml.v2 v2.2.2
 	k8s.io/api v0.0.0
