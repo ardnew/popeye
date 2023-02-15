@@ -37,12 +37,12 @@ require (
 	github.com/imdario/mergo v0.3.7 // indirect
 	github.com/magiconair/properties v1.8.0
 	github.com/onsi/ginkgo v1.8.0 // indirect
-	github.com/prometheus/client_golang v1.2.1
+	github.com/prometheus/client_golang v1.11.1
 	github.com/rs/zerolog v1.12.0
 	github.com/spf13/cobra v0.0.4
-	github.com/stretchr/testify v1.3.0
+	github.com/stretchr/testify v1.4.0
 	gopkg.in/inf.v0 v0.9.1 // indirect
-	gopkg.in/yaml.v2 v2.2.2
+	gopkg.in/yaml.v2 v2.3.0
 	k8s.io/api v0.0.0
 	k8s.io/apimachinery v0.0.0
 	k8s.io/cli-runtime v0.0.0
